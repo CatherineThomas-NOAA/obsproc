@@ -23,11 +23,11 @@
 # directory are included, so if no exclude patterns match that file, it will be
 # transferred.
 
-com/hourly/_ENVIR_/hourly._PDY_/
+_COMROOT_/obsproc/_SHORTVER_/mods._YEARCUR_/
+_COMROOT_/obsproc/_SHORTVER_/mods._YEARPREV_/
+_COMROOT_/obsproc/_SHORTVER_/mods._PDY_/
 B 1100
-Z
 
-com/hourly/_ENVIR_/hourly._PDYm1_/
+_COMROOT_/obsproc/_SHORTVER_/mods._PDYm1_/
 B 1100
-Z
 
