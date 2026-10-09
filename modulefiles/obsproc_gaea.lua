@@ -15,4 +15,6 @@ load(pathJoin("cmake", cmake_ver))
 -- Load common modules for this package
 load("obsproc_common")
 
+unload("cray-libsci")
+
 whatis("Description: obsproc build environment")
